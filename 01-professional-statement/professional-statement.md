@@ -1,5 +1,5 @@
-##Professional statement 
-##Mohamed Elgamal 
+## Professional statement 
+## Mohamed Elgamal 
 
 *My name is Mohamed Elgamal. I am a disciplined and analytical aspiring 
 cybersecurity professional and Computer and Communications Engineering 
